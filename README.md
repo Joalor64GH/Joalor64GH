@@ -47,6 +47,7 @@
 
 ## Miscellaneous
 * [VS Joalor64](https://github.com/Joalor64GH/VSJoalor64-SourceCode)
+* [Flash Creations](https://github.com/Joalor64GH/Flash-Creations)
 * [Rain LUA Script](https://github.com/Joalor64GH/Rain-LUA-Script)
 * [Unfinished Business](https://github.com/Joalor64GH/Unfinished-Business)
 
