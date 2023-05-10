@@ -34,6 +34,7 @@
 * [HornyScript: Remaster](https://github.com/Joalor64GH/HornyScript-RE)
 * [SScript](https://github.com/Joalor64GH/SScript)
 * [SScript (Old)](https://github.com/Joalor64GH/SScript-Old)
+* [Mag Engine](https://github.com/Joalor64GH/FNF-MagEngine)
 * [Strident Engine](https://github.com/Joalor64GH/Strident-Engine)
 * [Psych Engine 0.5.2h](https://github.com/Joalor64GH/PsychEngine-0.5.2h)
 * [Psych Engine with Android Support](https://github.com/Joalor64GH/FNF-PsychEngine-With-Android-Support)
@@ -71,6 +72,7 @@
 * [Chocolate Engine](https://github.com/Joalor64GH/Chocolate-Engine)
 * [The Christmas Game](https://github.com/Joalor64GH/Christmas2022)
 * [Incredicustombox](https://github.com/Joalor64GH/Incredicustombox)
+* [Tsintobox](https://github.com/Joalor64GH/Tsintobox)
 * [Funnibox](https://github.com/Joalor64GH/Funnibox)
 
 # My Organizations
