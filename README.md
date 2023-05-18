@@ -35,6 +35,7 @@
 * [SScript](https://github.com/Joalor64GH/SScript)
 * [SScript (Old)](https://github.com/Joalor64GH/SScript-Old)
 * [Mag Engine](https://github.com/Joalor64GH/FNF-MagEngine)
+* [Izzy Engine](https://github.com/Joalor64GH/FNF-IzzyEngine)
 * [Strident Engine](https://github.com/Joalor64GH/Strident-Engine)
 * [Psych Engine 0.5.2h](https://github.com/Joalor64GH/PsychEngine-0.5.2h)
 * [Psych Engine with Android Support](https://github.com/Joalor64GH/FNF-PsychEngine-With-Android-Support)
