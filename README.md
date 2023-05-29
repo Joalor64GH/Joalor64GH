@@ -13,6 +13,7 @@
 ## Stuff I'm Working On
 * [2048 Clicker](https://github.com/Joalor64GH/2048-Clicker)
 * [BandLab OST Player](https://github.com/Joalor64GH/BandLabOST-Player)
+* [BandLab Radio Player](https://github.com/Joalor64GH/BandLab-Radio-Player)
 * [polymod-joalor64](https://github.com/Joalor64GH/polymod-joalor64)
 * [Joalor64 Engine](https://github.com/Joalor64GH/Joalor64-Engine)
 * [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
