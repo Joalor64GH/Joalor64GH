@@ -17,6 +17,7 @@
 * [polymod-joalor64](https://github.com/Joalor64GH/polymod-joalor64)
 * [Joalor64 Engine](https://github.com/Joalor64GH/Joalor64-Engine)
 * [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
+* [Funkin' Into the Bob Verse](https://github.com/Joalor64GH/BobVerse-SC)
 * [Upsilon Engine](https://github.com/Joalor64GH/Upsilon-Engine)
 * [Arbox Web Version](https://github.com/Joalor64GH/Arbox-WebVersion)
 * [Joalor64Box](https://github.com/Joalor64GH/Joalor64Box)
