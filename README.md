@@ -56,6 +56,7 @@
 * [Forever Engine (Unfinished Rewrite)](https://github.com/Joalor64GH/Forever-Engine-Rewrite)
 * [Forever Engine (Hybrid)](https://github.com/Joalor64GH/Forever-Engine-Hybrid)
 * [Forever Engine Underscore](https://github.com/Joalor64GH/ForeverUnderscore-backup)
+* [FNF Feather Legacy](https://github.com/Joalor64GH/FNF-Feather-Legacy)
 * [Incredibox (V8)](https://github.com/Joalor64GH/IncrediboxOpenSource)
 * [Incredibox (V9)](https://github.com/Joalor64GH/Incredibox-Latest)
 
