@@ -26,7 +26,7 @@
 ## Templates and Stuff
 * [HaxeFlixel Template](https://github.com/Joalor64GH/HaxeFlixel-Template)
 * [HaxeFlixel Splash Template](https://github.com/Joalor64GH/HaxeFlixelSplash-Template)
-* [Firetoungue Template](https://github.com/Joalor64GH/Firetoungue-Template)
+* [Firetongue Template](https://github.com/Joalor64GH/Firetongue-Template)
 * [Game Jam Template](https://github.com/Joalor64GH/game-jam-template)
 * [ModCore Examples](https://github.com/Joalor64GH/ModCore-Examples)
 * [FNF Python Support](https://github.com/Joalor64GH/Friday-Night-Funkin-Python-Support)
