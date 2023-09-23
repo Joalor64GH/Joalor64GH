@@ -34,9 +34,6 @@
 
 ## Source Code Reuploads/Archives
 * [HornyScript: Remaster](https://github.com/Joalor64GH/HornyScript-RE)
-* [SScript](https://github.com/Joalor64GH/SScript-New)
-* [SScript (Old)](https://github.com/Joalor64GH/SScript)
-* [SScript (Older)](https://github.com/Joalor64GH/SScript-Old)
 * [PE Tutorials](https://github.com/Joalor64GH/PE-tutorials)
 * [FNF (Latest)](https://github.com/Joalor64GH/FridayNightFunkin)
 * [FNF (Pre-Week 7)](https://github.com/Joalor64GH/Funkin-PreWeek7)
