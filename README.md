@@ -63,6 +63,7 @@
 * [VS Joalor64](https://github.com/Joalor64GH/VSJoalor64-SourceCode)
 * [Script Creations](https://github.com/Joalor64GH/Script-Creations)
 * [Flash Creations](https://github.com/Joalor64GH/Flash-Creations)
+* [Processing Creations](https://github.com/Joalor64GH/ProcessingCreations)
 * [Flixel Test](https://github.com/Joalor64GH/FlixelTest)
 * [Rain LUA Script](https://github.com/Joalor64GH/Rain-LUA-Script)
 
