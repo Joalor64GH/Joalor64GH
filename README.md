@@ -15,6 +15,7 @@
 * [2048 Clicker](https://github.com/Joalor64GH/2048-Clicker)
 * [BandLab OST Player](https://github.com/Joalor64GH/BandLabOST-Player)
 * [BandLab Radio Player](https://github.com/Joalor64GH/BandLab-Radio-Player)
+* [The Simple Math Game](https://github.com/Joalor64GH/SimpleMathGame)
 * [polymod-joalor64](https://github.com/Joalor64GH/polymod-joalor64)
 * [Joalor64 Engine](https://github.com/Joalor64GH/Joalor64-Engine)
 * [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
@@ -27,6 +28,7 @@
 ## Templates and Stuff
 * [HaxeFlixel Template](https://github.com/Joalor64GH/HaxeFlixel-Template)
 * [HaxeFlixel Splash Template](https://github.com/Joalor64GH/HaxeFlixelSplash-Template)
+* [Simple Localization™](https://github.com/Joalor64GH/SimpleLocalization)
 * [Firetongue Template](https://github.com/Joalor64GH/Firetongue-Template)
 * [Game Jam Template](https://github.com/Joalor64GH/game-jam-template)
 * [ModCore Examples](https://github.com/Joalor64GH/ModCore-Examples)
