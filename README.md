@@ -1,6 +1,6 @@
 # ✨Sample Text✨
 * I do things.
-* Currently working on VS Joalor64: DELUXE and Foreverbox.
+* Currently working on VisionSphere and Foreverbox.
 * Check out my [YT channel](https://www.youtube.com/channel/UC4tRMRL_iAHX5n1qQpHibfg) and [website](https://sites.google.com/view/joalor64website-new/).
 * Pronouns: he/him, they/them
 
@@ -21,6 +21,7 @@
 * [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
 * [VS Joalor64: DELUXE](https://github.com/Joalor64GH/VSJoalor64-DX)
 * [Upsilon Engine](https://github.com/Joalor64GH/Upsilon-Engine)
+* [VisionSphere](https://github.com/Joalor64GH/VisionSphere)
 * [Arbox Web Version](https://github.com/Joalor64GH/Arbox-WebVersion)
 * [Joalor64Box](https://github.com/Joalor64GH/Joalor64Box)
 * [Foreverbox](https://github.com/Joalor64GH/Foreverbox)
