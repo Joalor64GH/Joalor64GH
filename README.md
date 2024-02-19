@@ -45,6 +45,7 @@
 * [Mag Engine](https://github.com/Joalor64GH/FNF-MagEngine)
 * [Cool Engine](https://github.com/Joalor64GH/CoolEngine-Backup)
 * [Izzy Engine](https://github.com/Joalor64GH/FNF-IzzyEngine)
+* [Vixtin Engine](https://github.com/Joalor64GH/Vixtin-Engine)
 * [Strident Engine](https://github.com/Joalor64GH/Strident-Engine)
 * [Psych Engine 0.5.2h](https://github.com/Joalor64GH/PsychEngine-0.5.2h)
 * [Psych Engine with Android Support](https://github.com/Joalor64GH/FNF-PsychEngine-With-Android-Support)
