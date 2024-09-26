@@ -3,7 +3,7 @@ Hi, I do things. <br>
 Mostly out of boredom, but I still hope at least some people enjoy them.
 
 ## About Me
-<!--* Currently in 11th Grade.-->
+* Currently in 11th Grade.
 * Currently learning `Haxe/HaxeFlixel`.
 * Pronouns: he/him/they/them
 
