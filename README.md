@@ -18,6 +18,7 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 * [Flash Creations](https://github.com/Joalor64GH/Flash-Creations)
 * [Foreverbox](https://github.com/Joalor64GH/Foreverbox)
 * [Rhythmo](https://github.com/Joalor64GH/Rhythmo-SC)
+* [Əlura](https://github.com/Joalor64GH/alura)
 
 ## Languages I Know + My Tools
 <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,github,vscode,&perline=10&theme=dark"/>
