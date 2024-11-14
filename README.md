@@ -20,6 +20,8 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 * [Rhythmo](https://github.com/Joalor64GH/Rhythmo-SC)
 * [Əlura](https://github.com/Joalor64GH/alura)
 
+You can find some of my old projects are here, but most of them are at @Joalor64-Archives instead.
+
 ## Languages I Know + My Tools
 <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,github,vscode,&perline=10&theme=dark"/>
 
