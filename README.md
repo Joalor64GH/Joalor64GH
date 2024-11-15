@@ -17,6 +17,7 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 * [Simple Localization™](https://github.com/Joalor64GH/SimpleLocalization)
 * [Flash Creations](https://github.com/Joalor64GH/Flash-Creations)
 * [Foreverbox](https://github.com/Joalor64GH/Foreverbox)
+* [Journey Through Aubekhia](https://github.com/Joalor64GH/JTA)
 * [Rhythmo](https://github.com/Joalor64GH/Rhythmo-SC)
 * [Əlura](https://github.com/Joalor64GH/alura)
 
