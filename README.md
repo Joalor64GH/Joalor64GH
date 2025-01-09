@@ -29,7 +29,7 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 You can find some of my older projects here also, but most of them are at [@Joalor64-Archives](https://github.com/Joalor64-Archives) instead.
 
 ## Languages I Know + My Tools
-<img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,github,vscode,&perline=10&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,css,github,vscode,&perline=10&theme=dark"/>
 
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joalor64gh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
