@@ -4,7 +4,7 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 
 ## About Me
 * Currently in 11th Grade.
-* Currently learning `Haxe/HaxeFlixel`.
+* Currently learning `Haxe/HaxeFlixel`, and some `Javascript`.
 * Pronouns: he/him/they/them
 
 ## Projects
