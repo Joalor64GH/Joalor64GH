@@ -1,6 +1,6 @@
 # Joalor64
 Hi, I do things. <br>
-Mostly out of boredom, but I still hope at least some people enjoy them.
+Mostly out of boredom or for fun, but I still hope at least some people enjoy them.
 
 ## About Me
 * Currently in 11th Grade.
@@ -11,8 +11,7 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 ### Current Projects
 * [Rhythmo](https://github.com/JoaTH-Team/Rhythmo-SC)
 * [Foreverbox](https://github.com/Joalor64GH/Foreverbox)
-* [Journey Through Aubekhia](https://github.com/Joalor64GH/JTA)
-* [Əlʊɹa](https://github.com/Joalor64GH/alura)
+* [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
 
 ### Template Projects
 * [HaxeFlixel Template](https://github.com/Joalor64GH/HaxeFlixel-Template)
@@ -20,7 +19,8 @@ Mostly out of boredom, but I still hope at least some people enjoy them.
 * [Simple Localization™](https://github.com/Joalor64GH/SimpleLocalization)
 
 ### Other Projects
-* [Joalor64 Engine Rewritten](https://github.com/Joalor64GH/Joalor64-Engine-Rewrite)
+* [Əlʊɹa](https://github.com/Joalor64GH/alura)
+* [Journey Through Aubekhia](https://github.com/Joalor64GH/JTA)
 * [polymod-joalor64](https://github.com/Joalor64GH/polymod-joalor64)
 * [VS Joalor64](https://github.com/Joalor64GH/VSJoalor64-SourceCode)
 * [VisionSphere](https://github.com/Joalor64GH/VisionSphere)
