@@ -9,7 +9,7 @@ Mostly out of boredom or for fun, but I still hope at least some people enjoy th
 
 ## Projects
 ### Current Projects
-* [Rhythmo](https://github.com/JoaTH-Team/Rhythmo-SC)
+* [Rhythmo](https://github.com/JoaTH-Team/Rhythmo)
 * [Journey Through Aubekhia](https://github.com/JoaTH-Team/JTA)
 * [VS Rob: Rebooted!](https://github.com/Joalor64GH/VS-Rob-Rebooted/)
 * [Foreverbox](https://joalor64gh.github.io/foreverbox.html)
